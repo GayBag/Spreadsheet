@@ -46,7 +46,5 @@ class TestCell {
 	static test_reset(){}
 
 }
-let cell = new Cell ("hello","red");
-console.log (cell.toInt("123p") );
 
 
