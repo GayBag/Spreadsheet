@@ -88,16 +88,6 @@ static test_reset(){
 	}
 
 }
-//let sh = new Spreadsheet (5,5);
-//let cell = new Cell ("10.2","red");
-//sh.setCellAt(3,3,cell);
-//sh.setCellAt(3,4,cell);
-//sh.swapColumns(1,3);
-//sh.swapRows(3,1)
-//sh.removeRow(2);
-console.log (TestSpreadshell.test_setCellAt());
-//cell.toDate();
-//console.log (sh);
 
 
 
