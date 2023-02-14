@@ -142,19 +142,6 @@ static test_reset(){
 	}
 
 }
-let sh = new Spreadsheet (1,2);
-let cell = new Cell (10,"green");
-//sh.setCellAt(3,3,cell);
-//sh.setCellAt(3,4,cell);
-
-//sh.removeRow(2);
-//sh.addRow(2);
-//sh.swapColumns(1,3);
-//sh.swapRows(3,1)
-//sh.removeRow(2);
-//console.log (TestSpreadshell.test_addRows());
-//cell.toDate();
-console.log (cell);
 
 
 
